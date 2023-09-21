@@ -1,0 +1,120 @@
+
+body{
+  background: url(background.jpg);
+  background-repeat: no-repeat;
+  margin: auto;
+  width: 2725px;
+  height: 550px;
+}
+
+input.segna{
+  font-size: 50px;
+}
+
+div>input{
+  font-size: 40px;
+}
+
+section>input{
+  width: 45px;
+  height: 45px;
+  background-color: white;
+  border-radius: 4px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  margin-bottom: 25px;
+}
+
+header>img{
+  box-sizing: border-box;
+  margin: auto;
+
+}
+
+header{
+  text-align: center;
+  color: limegreen;
+  font-size: 60px;
+  line-height: 100px;
+}
+
+section{
+  display: inline-block;
+  margin: auto;
+}
+
+
+span.monopattino{
+  font-size: 90px;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+main{
+  display: inline-block;
+  width: 10px;
+  font-size: 40px;
+}
+
+p{
+  margin-top: 10px;
+}
+
+.rettangolo1{
+  width: 2950px;
+  height: 100px;
+  background: limegreen;
+  margin-bottom: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.rettangolo2{
+  width: 1500px;
+  height: 100px;
+  background: gold;
+  margin-bottom: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.rettangolo3{
+  width: 2300px;
+  height: 100px;
+  background: limegreen;
+  margin-bottom: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.rettangolo4{
+  width: 1000px;
+  height: 100px;
+  background: red;
+  margin-bottom: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+section{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: white;
+}
+
+*{
+  box-sizing: inherit;
+  margin: 0;
+
+.border{
+  width: 3000px;
+  position: fixed;
+  height: 1700px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 0px black;
+  padding: 60px;
+  margin-left: -100px;
+  margin-top: 220px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+  border-radius: 20px 20px 20px 20px;
+}
